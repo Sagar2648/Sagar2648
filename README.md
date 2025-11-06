@@ -15,13 +15,22 @@
 
 ## 🛠️ Skills & Technologies
 
-| Category | Languages / Technologies | Focus Area |
-| :--- | :--- | :--- |
-| **Core Languages** | **C** | Data Structures, Algorithms, Core Logic |
-| | **Python** | Scripting, Data Manipulation, Backend Concepts |
-| | **Java** | Core OOP Concepts |
-| **Mobile Dev** | **Flutter**, **Dart** | Cross-platform application development |
-| **Web Dev** | **React**, **JavaScript** | Frontend development basics |
+### Programming Languages & Core
+
+| Technology | Focus Area |
+| :--- | :--- |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Data Structures, Algorithms, Core Logic |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Scripting, Data Manipulation, Backend Concepts |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | Core OOP Concepts |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | Primary language for mobile development |
+
+### Web & Mobile Development
+
+| Technology | Focus Area |
+| :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | Cross-platform app development |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Frontend development basics |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend development basics |
 
 ---
 
@@ -34,8 +43,6 @@
 | **Weather App** | Dynamic web application fetching and displaying real-time weather data via a public API. | React / JavaScript | [View Repo](https://github.com/Sagar2648?tab=repositories) |
 | **401k Enrollment Site** | Simple front-end static website showcasing basic form validation and responsive design. | React / Javascript | [View Repo](https://github.com/Sagar2648?tab=repositories) |
 | **Guess The Number** | Interactive random number guessing game with an attempt counter. | C | [View Repo](https://github.com/Sagar2648?tab=repositories) |
-
-*(Note: Please replace the generic `[View Repo]` links above with the actual, specific URLs for each project repository.)*
 
 ---
 
