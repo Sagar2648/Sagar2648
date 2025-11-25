@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a passionate **Software Engineering Student** focused on building robust and efficient solutions.
-💡 Actively expanding my expertise across **C, Python, Java**, and modern **Web & Mobile Development** technologies.
-🚀 **Currently Building:** Diving deep into **C** projects (like my Chess Game) to solidify core programming concepts, and developing cross-platform applications with **Flutter/Dart**.
-🌐 **Check out my repositories** for projects ranging from advanced logic implementations to dynamic web apps!
+* 🎓 I'm a passionate **Software Engineering Student** focused on building robust and efficient solutions.
+* 💡 Actively expanding my expertise across **C, Python, Java**, and modern **Web & Mobile Development** technologies.
+* 🚀 **Currently Building:** Diving deep into **C** projects (like my Chess Game) to solidify core programming concepts, and developing cross-platform applications with **Flutter/Dart**.
+* 🌐 **Check out my repositories** for projects ranging from advanced logic implementations to dynamic web apps!
 
 ---
 
